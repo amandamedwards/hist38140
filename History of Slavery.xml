@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>74</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+            "<interp key="I believe this claim to be untrue because it is someone from outside this specific culture trying to insert their own opinions and beliefs on a nation that is not asking for their opnion. This can be clearly seen in this history of Jamaica. " n="http://www.recoveredhistories.org/pamphlet1.php?catid=66" cert="high" ref="https://en.wikipedia.org/wiki/History_of_Jamaica "> It is impossible, however, to do any thing," ( in the way of religious improvement,) "unless a becoming observance of sabbath is enforced.</interp> At present, it is a day of <i> labour, marketing, and exchange,</i> and too often it is concluded by scnes of excess and brutal debauchery. 
+<p> <i>That system is authorized by the Whites</i> But until done away, and that, as an introudction to Christian habits among the Negroes, nothing can be so futile as to attempt to reconcile Christianity with a violation of one of its most important commandments." (Vol.i.p.331) 
+<p> "Such a state of things aong a people arrogating to themselves the designation of Christians," he adds, "is a nature so criminal, that to that wew may ascribe the destructive line of conduct followed by the Negroes, affecting their lives and health, and the ultimate interests of those who are the cause of these evils."-" No circumstance is, in my opinion, so adverse as the conduct of the White Inhabitants, who treat the Sabbath with a violation of its most scared duties and make it, by <i> established customs of the island, a day of marketing, labour dancing and excesses of every kind.</i>(Vol.ii.p.285)
+<p>Sunday, Dr. W. conceives  is the only day on which instruction can be conviently given. But on that day the Negroes," he tells us, "are engaged in <i> marketing and labour</i>. They are thus taight to disobey the command which enjoins the observance of Sabbath; and it is impossible to suppose that a consistent impression can be made on the minds of the Negroes, where the slightest sagacity on their part must expose the absurdity. While the legisalture of <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica </placeName>does not provide that Sunday shall be a day of rest and enforce attention to it, I cannot persuade myself to believe in their sincerity." (Vol.iip.287)    
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
